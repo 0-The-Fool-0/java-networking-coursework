@@ -1,3 +1,5 @@
+[Русская версия](README.ru.md)
+
 # Java Networking Coursework
 
 A collection of two related but distinct Java networking exercises. Both are retained in separate directories so the original implementations remain easy to compare.
